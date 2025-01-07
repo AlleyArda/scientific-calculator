@@ -86,11 +86,11 @@ Developed by **Ali Arda Kulaksız**
 
 Below are the screenshots from the project to provide a visual overview of its features and UI.
 
-## 1. Admin Panel
-![Admin Panel](assets/adminpanel.png)
-
-## 2. API Swagger Documentation
+## 1. API Swagger Documentation
 ![API Swagger Documentation](assets/apiswagger.png)
+
+## 2. Admin Panel
+![Admin Panel](assets/adminpanel.png)
 
 ## 3. Calculator Page
 ![Calculator Page](assets/calculate.png)
