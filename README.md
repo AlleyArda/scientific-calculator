@@ -89,28 +89,25 @@ Below are the screenshots from the project to provide a visual overview of its f
 ## 1. Admin Panel
 ![Admin Panel](assets/adminpanel.png)
 
-## 2. API Endpoints
-![API Endpoints](assets/api.png)
-
-## 3. API Swagger Documentation
+## 2. API Swagger Documentation
 ![API Swagger Documentation](assets/apiswagger.png)
 
-## 4. Calculator Page
+## 3. Calculator Page
 ![Calculator Page](assets/calculate.png)
 
-## 5. History Page
+## 4. History Page
 ![History Page](assets/history.png)
 
-## 6. Login Page
+## 5. Login Page
 ![Login Page](assets/login.png)
 
-## 7. Navigation Bar
+## 6. Navigation Bar
 ![Navigation Bar](assets/nav.png)
 
-## 8. Admin Navigation Bar
+## 7. Admin Navigation Bar
 ![Admin Navigation Bar](assets/navadmin.png)
 
-## 9. Register Page
+## 8. Register Page
 ![Register Page](assets/register.png)
 
 ---
