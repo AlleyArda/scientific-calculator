@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScientificCalculator.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fa73e3e0dccb27a1a6952377d3bb42576a67384")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11ce30bf489b83be915164a144b503c3f5421169")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScientificCalculator.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScientificCalculator.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
