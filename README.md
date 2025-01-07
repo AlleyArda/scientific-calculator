@@ -82,33 +82,9 @@ Developed by **Ali Arda Kulaksız**
 
 ---
 
-# Project Screenshots
+# API Swagger Documentation Screenshot
 
-Below are the screenshots from the project to provide a visual overview of its features and UI.
-
-## 1. API Swagger Documentation
 ![API Swagger Documentation](assets/apiswagger.png)
-
-## 2. Admin Panel
-![Admin Panel](assets/adminpanel.png)
-
-## 3. Calculator Page
-![Calculator Page](assets/calculate.png)
-
-## 4. History Page
-![History Page](assets/history.png)
-
-## 5. Login Page
-![Login Page](assets/login.png)
-
-## 6. Navigation Bar
-![Navigation Bar](assets/nav.png)
-
-## 7. Admin Navigation Bar
-![Admin Navigation Bar](assets/navadmin.png)
-
-## 8. Register Page
-![Register Page](assets/register.png)
 
 ---
 
