@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="13.0.1" />
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Cryptography.KeyDerivation" Version="9.0.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="9.0.0" />
+      <PackageReference Include="NCalc" Version="1.3.8" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ScientificCalculator.DataAccess\ScientificCalculator.DataAccess.csproj" />
+      <ProjectReference Include="..\ScientificCalculator.Model\ScientificCalculator.Model.csproj" />
+    </ItemGroup>
+
+</Project>

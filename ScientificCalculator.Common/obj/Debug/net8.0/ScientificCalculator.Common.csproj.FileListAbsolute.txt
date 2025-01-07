@@ -1,0 +1,12 @@
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/bin/Debug/net8.0/ScientificCalculator.Common.deps.json
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/bin/Debug/net8.0/ScientificCalculator.Common.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/bin/Debug/net8.0/ScientificCalculator.Common.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.csproj.AssemblyReference.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.AssemblyInfoInputs.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.AssemblyInfo.cs
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.csproj.CoreCompileInputs.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/refint/ScientificCalculator.Common.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ref/ScientificCalculator.Common.dll

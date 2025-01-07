@@ -1,0 +1,17 @@
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/bin/Debug/net8.0/ScientificCalculator.DataAccess.deps.json
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/bin/Debug/net8.0/ScientificCalculator.DataAccess.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/bin/Debug/net8.0/ScientificCalculator.DataAccess.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/bin/Debug/net8.0/ScientificCalculator.Data.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/bin/Debug/net8.0/ScientificCalculator.Model.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/bin/Debug/net8.0/ScientificCalculator.Data.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/bin/Debug/net8.0/ScientificCalculator.Model.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/ScientificCalculator.DataAccess.csproj.AssemblyReference.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/ScientificCalculator.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/ScientificCalculator.DataAccess.AssemblyInfoInputs.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/ScientificCalculator.DataAccess.AssemblyInfo.cs
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/ScientificCalculator.DataAccess.csproj.CoreCompileInputs.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/Scientif.C77EBAED.Up2Date
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/ScientificCalculator.DataAccess.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/refint/ScientificCalculator.DataAccess.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/ScientificCalculator.DataAccess.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.DataAccess/obj/Debug/net8.0/ref/ScientificCalculator.DataAccess.dll

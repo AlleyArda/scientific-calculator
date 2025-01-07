@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9aoJpaDHk1ZA0UCLCh0Kr6f/QF9rd5tpY/CESMqR+tI=",
+  "Source": "ScientificCalculator.Api",
+  "BasePath": "_content/ScientificCalculator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/bin/Debug/net8.0/ScientificCalculator.Data.deps.json
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/bin/Debug/net8.0/ScientificCalculator.Data.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/bin/Debug/net8.0/ScientificCalculator.Data.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/bin/Debug/net8.0/ScientificCalculator.Model.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/bin/Debug/net8.0/ScientificCalculator.Model.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.csproj.AssemblyReference.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.AssemblyInfoInputs.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.AssemblyInfo.cs
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.csproj.CoreCompileInputs.cache
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/Scientif.7C5D8F89.Up2Date
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/refint/ScientificCalculator.Data.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.pdb
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ref/ScientificCalculator.Data.dll

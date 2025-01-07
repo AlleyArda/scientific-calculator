@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ScientificCalculator.Api.props" />
+</Project>
