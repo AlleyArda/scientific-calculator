@@ -10,3 +10,4 @@
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/refint/ScientificCalculator.Common.dll
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.pdb
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ref/ScientificCalculator.Common.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Common/obj/Debug/net8.0/ScientificCalculator.Common.sourcelink.json

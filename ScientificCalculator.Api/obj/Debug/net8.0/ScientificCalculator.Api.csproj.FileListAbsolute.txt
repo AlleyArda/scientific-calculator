@@ -148,3 +148,4 @@
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Api/obj/Debug/net8.0/ScientificCalculator.Api.pdb
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Api/obj/Debug/net8.0/ScientificCalculator.Api.genruntimeconfig.cache
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Api/obj/Debug/net8.0/ref/ScientificCalculator.Api.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Api/obj/Debug/net8.0/ScientificCalculator.Api.sourcelink.json

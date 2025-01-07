@@ -17,3 +17,4 @@
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Services/obj/Debug/net8.0/refint/ScientificCalculator.Services.dll
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Services/obj/Debug/net8.0/ScientificCalculator.Services.pdb
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Services/obj/Debug/net8.0/ref/ScientificCalculator.Services.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Services/obj/Debug/net8.0/ScientificCalculator.Services.sourcelink.json

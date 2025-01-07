@@ -13,3 +13,4 @@
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/refint/ScientificCalculator.Data.dll
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.pdb
 /Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ref/ScientificCalculator.Data.dll
+/Users/AliArdaKulaksiz/RiderProjects/ScientificCalculator/ScientificCalculator.Data/obj/Debug/net8.0/ScientificCalculator.Data.sourcelink.json
